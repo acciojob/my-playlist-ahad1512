@@ -6,7 +6,7 @@ h1,h2{
 	text-align:center;
 }
 div{
-	background-color:white;
+	background-color:rgb(255, 255, 255);
 	border:solid;
 	padding:10px;
 	border-radius:10px;
@@ -20,4 +20,7 @@ li{
 }
 #playlist{
 	margin:15px;
+}
+#pg{
+	text-decoration-line:none;
 }
